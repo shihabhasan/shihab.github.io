@@ -1,0 +1,32 @@
+== Changelog ==
+
+= 1.0.8 =
+
+*Custom logo feature WordPress 4.5 and above compatible
+*Testimonial Slider Fixed speed and data indicator of the slider showing with only one post
+*Logo migrate was also integrated which will migrate the old logo used into the new WordPress default logo when updating WordPress from older versions to 5.0 or higher
+
+= 1.0.7 =
+* minor bug fix
+
+= 1.0.6 =
+*  Theme URL added
+* Upgrade to Pro link added
+
+= 1.0.5 = 
+* minor bug fix
+
+= 1.0.4 =
+*  Fixed Google fonts issues
+
+= 1.0.3 =
+*  Notification message added for Background image and color controls in customizer
+
+= 1.0.2 =
+* Minor changes
+
+= 1.0.1 =
+* Features added
+
+= 1.0.0 =
+* Initial submission to WordPress repository

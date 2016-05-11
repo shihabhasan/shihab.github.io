@@ -1,0 +1,604 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Biography\n"
+"POT-Creation-Date: 2015-12-10 16:48+0545\n"
+"PO-Revision-Date: 2015-12-10 16:48+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:29
+msgid "Copyright &copy; Yam Chhetri"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:44
+msgid "Client's testimonial"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:51
+msgid "EDUCATION & JOBS"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:253
+msgid "Theme Author"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:257
+msgid "Support"
+msgstr ""
+
+#: inc/customizer/customizer-base.php:261
+msgid "Review"
+msgstr ""
+
+#: inc/customizer/customizer.php:26
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:30
+msgid "Recommended logo size 260*260"
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid ""
+"Recommended image size 1920*635, if you remove this image the default image "
+"will be shown as Header Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "Contact Url"
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Resume Url"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Enable Social Menu On Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgid ""
+"Please add social menus for enabling social menu. Go to menus for setting up"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:99
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "Basic Colors Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:115
+msgid "Biography Colors Reset"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Site Identity Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Site title and tagline color"
+msgstr ""
+
+#: inc/customizer/customizer.php:149
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:167
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:185
+msgid "Heading (H1-H6) Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:200
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/customizer.php:201
+msgid ""
+"Caution: Reset all above color settings to default. Refresh the page after "
+"save to view the effects. "
+msgstr ""
+
+#: inc/customizer/customizer.php:211
+msgid "Header Text Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "Select pages and title will be shown in text slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:222
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:236
+msgid "Select Page For Slide 1"
+msgstr ""
+
+#: inc/customizer/customizer.php:250
+msgid "Select Page For Slide 2"
+msgstr ""
+
+#: inc/customizer/customizer.php:264
+msgid "Select Page For Slide 3"
+msgstr ""
+
+#: inc/customizer/customizer.php:274
+msgid "Font Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:281
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/customizer.php:292
+msgid "Site Identity Font Family"
+msgstr ""
+
+#: inc/customizer/customizer.php:293 inc/customizer/customizer.php:309
+msgid "Site title and tagline font family"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "H1-H6 Font Family"
+msgstr ""
+
+#: inc/customizer/customizer.php:321
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:327
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:339
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:343
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:344
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:345
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:353
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:365
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:373 inc/customizer/customizer.php:385
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:394
+msgid "Important Links "
+msgstr ""
+
+#: inc/customizer/customizer.php:422 inc/customizer/customizer.php:434
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:435
+msgid ""
+"Caution: Reset all options settings to default. Refresh the page after save "
+"to view the effects. "
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:6
+msgid "Home/Front Service Section"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:7
+msgid "Select pages for service section, you can also change the icon per page"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:17
+msgid "Enable Service"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:31
+msgid "Select Page For Service 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:44
+msgid "Icon For Service 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:45
+#: inc/customizer/home-options/home-options.php:74
+#: inc/customizer/home-options/home-options.php:103
+#: inc/customizer/home-options/home-options.php:268
+#: inc/customizer/home-options/home-options.php:309
+#: inc/customizer/home-options/home-options.php:350
+#, php-format
+msgid "Use font awesome icon: Eg: %s. %sSee more here%s"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:59
+msgid "Select Page For Service 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:73
+msgid "Icon For Service 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:88
+msgid "Select Page For Service 3"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:102
+msgid "Icon For Service 3"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:113
+msgid "Home/Front Review Section"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:125
+msgid "Enable Review"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:139
+msgid "Select Page For About"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:153
+msgid "Testimonial Main Title"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:166
+msgid "Select Page For Testimonial 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:180
+msgid "Select Page For Testimonial 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:194
+msgid "Select Page For Testimonial 3"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:203
+msgid "Home/Front History Section"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:215
+msgid "Enable History"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:229
+msgid "History Main Title"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:241
+msgid "Select Page For History 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:255
+msgid "Duration For History 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:267
+msgid "Icon For History 1"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:282
+msgid "Select Page For History 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:296
+msgid "Duration For History 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:308
+msgid "Icon For History 2"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:323
+msgid "Select Page For History 3"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:337
+msgid "Duration For History 3"
+msgstr ""
+
+#: inc/customizer/home-options/home-options.php:349
+msgid "Icon For History 3"
+msgstr ""
+
+#: inc/extra-functions.php:20 inc/extra-functions.php:21
+#, php-format
+msgid "Archive for <em>%s</em>"
+msgstr ""
+
+#: inc/extra-functions.php:22
+#, php-format
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/extra-functions.php:23
+#, php-format
+msgid "Posts tagged <em>%s</em>"
+msgstr ""
+
+#: inc/extra-functions.php:24
+#, php-format
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/extra-functions.php:25
+msgid "Error 404"
+msgstr ""
+
+#: inc/extra-functions.php:153
+msgid "Page"
+msgstr ""
+
+#: inc/hooks/featured-slider/featured-main-hook.php:14
+msgid "Administrative Manager"
+msgstr ""
+
+#: inc/hooks/featured-slider/featured-main-hook.php:15
+msgid "Professional Developer"
+msgstr ""
+
+#: inc/hooks/featured-slider/featured-main-hook.php:137
+msgid "Contact Me"
+msgstr ""
+
+#: inc/hooks/featured-slider/featured-main-hook.php:144
+msgid "Download Resume"
+msgstr ""
+
+#: inc/hooks/footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/hooks/footer.php:46
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/hooks/footer.php:48
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/hooks/header.php:141
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:15
+msgid "2006-2009"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:16 inc/hooks/homepage-service.php:15
+msgid "Web Developing"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:17 inc/hooks/homepage-history.php:23
+#: inc/hooks/homepage-history.php:29 inc/hooks/homepage-review.php:23
+#: inc/hooks/homepage-service.php:16 inc/hooks/homepage-service.php:21
+#: inc/hooks/homepage-service.php:26
+msgid ""
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+"aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in "
+"voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+
+#: inc/hooks/homepage-history.php:21
+msgid "2010-2013"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:22 inc/hooks/homepage-service.php:20
+msgid "Photography"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:27
+msgid "2014-current"
+msgstr ""
+
+#: inc/hooks/homepage-history.php:28 inc/hooks/homepage-service.php:25
+msgid "Customer Support"
+msgstr ""
+
+#: inc/hooks/homepage-review.php:15
+msgid "WHY HIRE ME ?"
+msgstr ""
+
+#: inc/hooks/homepage-review.php:20
+msgid ""
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+"aliquip ex ea commodo "
+msgstr ""
+
+#: inc/hooks/homepage-review.php:27 inc/hooks/homepage-review.php:75
+msgid "Read More"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:15
+msgid "Sayer Name, CEO"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:17
+msgid ""
+"The set doesn't moved. Deep don't fru it fowl gathering heaven days moving "
+"creeping under from i air. Set it fifth Meat was darkness. every bring in it."
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:71 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:32
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Biography"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple theme for your personal site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Yam Chhetri"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.yamchhetri.com/"
+msgstr ""

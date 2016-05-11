@@ -1,0 +1,16 @@
+fPsychology 1.0.3, 2016-03-28
+------------------------
+- FontAwesome Update
+- bug fixes
+
+fPsychology 1.0.2, 2015-06-27
+------------------------
+- display pages bug fixes
+
+fPsychology 1.0.1, 2015-06-07
+------------------------
+- bug fixes
+
+fPsychology 1.0.0, 2015-06-07
+------------------------
+- Initial release
